@@ -1,5 +1,5 @@
 
-Use this table below as a template to report your findings:
+'''Use this table below as a template to report your findings:
   
   Algo	AUC	ACCURACY	TPR	FPR	TNR	FNR
 LR	 	 	 	 	 	 
@@ -43,7 +43,9 @@ please submit the R script or your solution in text format
 
 please submit the report in pdf format
 
-You can also submit RMD.
+You can also submit RMD.'''
+
+
 library(e1071)
 library(pROC)
 library(caret)
